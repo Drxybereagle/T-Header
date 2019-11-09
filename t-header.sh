@@ -45,7 +45,7 @@ THEADER ()
 {
 clear;
 echo -e "\033[01;32m
-Remo773 (2018)
+Dr. Xyber Eagle (2019)
 		
 	menu
 +---------------------------*/
